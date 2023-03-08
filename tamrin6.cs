@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-
+//tamrinat hossein mokarami
     static bool AskQuestion(string question)
 {
     Console.Write("{0} (y/n): ", question);
